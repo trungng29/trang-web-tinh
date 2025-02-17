@@ -81,11 +81,11 @@ body {
 }
 
 .post .post_header .share .share_icons .facebook_icon {
-    margin-left: 7px;
+    margin-left: 5px;
 }
 
 .post .post_header .share .share_icons .instagram_icon {
-    margin-left: 5px;
+    margin-left: 7px;
 }
 
 .post .post_body {
@@ -164,7 +164,6 @@ body {
     letter-spacing: 0px;
     text-decoration: underline;
     text-decoration-style: solid;
-    text-decoration-offset: Auto;
     text-decoration-thickness: Auto;
 }
 
